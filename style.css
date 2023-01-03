@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+::selection{
+    color: #fff;
+    background-color: #ff8400;
+}
+#intro{
+    color: blueviolet;
+    background-color: #2d4a48f4;
+    text-align: center;
+    padding: 25px;
+    font-weight: 900;
+    font-size: 50px;
+}
+p{
+    color: #454f58;
+    text-align: justify;
+    margin: 10px;
+}
