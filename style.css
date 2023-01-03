@@ -7,8 +7,9 @@
     background-color: #ff8400;
 }
 #intro{
-    color: blueviolet;
-    background-color: #2d4a48f4;
+    color: rgb(113, 248, 255);
+    background: linear-gradient(to right, #bdc3c7, #2c3e50
+    );
     text-align: center;
     padding: 25px;
     font-weight: 900;
